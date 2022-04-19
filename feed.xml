@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/lanyon/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/lanyon/" rel="alternate" type="text/html" /><updated>2022-04-19T04:23:50-04:00</updated><id>http://localhost:4000/lanyon/feed.xml</id><title type="html">Codinfox Lanyon</title><subtitle>Gamers of Divers strategy. Layout made by &lt;a href=&quot;http://codinfox.github.io&quot; target=&quot;_blank&quot;&gt;@codinfox&lt;/a&gt;.</subtitle><author><name>CybrWlf</name></author><entry><title type="html">Welcome to LPG!</title><link href="http://localhost:4000/lanyon/update/news/2022/04/17/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to LPG!" /><published>2022-04-17T23:57:27-04:00</published><updated>2022-04-17T23:57:27-04:00</updated><id>http://localhost:4000/lanyon/update/news/2022/04/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/lanyon/update/news/2022/04/17/welcome-to-jekyll/"><![CDATA[<h1 id="under-construction">Under construction!</h1>
+<p><img src="/lanyon/public/img/phoenix.png" alt="From the Ashes" /></p>
+
+<!-- 
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+-->]]></content><author><name>CybrWlf</name></author><category term="update" /><category term="news" /><summary type="html"><![CDATA[Under construction!]]></summary></entry><entry><title type="html">Introducing Lanyon</title><link href="http://localhost:4000/lanyon/2014/01/02/introducing-lanyon/" rel="alternate" type="text/html" title="Introducing Lanyon" /><published>2014-01-02T00:00:00-05:00</published><updated>2014-01-02T00:00:00-05:00</updated><id>http://localhost:4000/lanyon/2014/01/02/introducing-lanyon</id><content type="html" xml:base="http://localhost:4000/lanyon/2014/01/02/introducing-lanyon/"><![CDATA[<p>Lanyon is an unassuming <a href="http://jekyllrb.com">Jekyll</a> theme that places content first by tucking away navigation in a hidden drawer. It’s based on <a href="http://getpoole.com">Poole</a>, the Jekyll butler.</p>
+
+<h3 id="built-on-poole">Built on Poole</h3>
+
+<p>Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by <a href="https://twitter.com/mdo">@mdo</a>. Poole, and every theme built on it (like Lanyon here) includes the following:</p>
+
+<ul>
+  <li>Complete Jekyll setup included (layouts, config, <a href="/404">404</a>, <a href="/atom.xml">RSS feed</a>, posts, and <a href="/about">example page</a>)</li>
+  <li>Mobile friendly design and development</li>
+  <li>Easily scalable text and component sizing with <code class="language-plaintext highlighter-rouge">rem</code> units in the CSS</li>
+  <li>Support for a wide gamut of HTML elements</li>
+  <li>Related posts (time-based, because Jekyll) below each post</li>
+  <li>Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)</li>
+</ul>
+
+<h3 id="lanyon-features">Lanyon features</h3>
+
+<p>In addition to the features of Poole, Lanyon adds the following:</p>
+
+<ul>
+  <li>Toggleable sliding sidebar (built with only CSS) via <strong>☰</strong> link in top corner</li>
+  <li>Sidebar includes support for textual modules and a dynamically generated navigation with active link support</li>
+  <li>Two orientations for content and sidebar, default (left sidebar) and <a href="https://github.com/poole/lanyon#reverse-layout">reverse</a> (right sidebar), available via <code class="language-plaintext highlighter-rouge">&lt;body&gt;</code> classes</li>
+  <li><a href="https://github.com/poole/lanyon#themes">Eight optional color schemes</a>, available via <code class="language-plaintext highlighter-rouge">&lt;body&gt;</code> classes</li>
+</ul>
+
+<p><a href="https://github.com/poole/lanyon#readme">Head to the readme</a> to learn more.</p>
+
+<h3 id="browser-support">Browser support</h3>
+
+<p>Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.</p>
+
+<h3 id="download">Download</h3>
+
+<p>Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.</p>
+
+<p>Thanks!</p>]]></content><author><name>CybrWlf</name></author><summary type="html"><![CDATA[Lanyon is an unassuming Jekyll theme that places content first by tucking away navigation in a hidden drawer. It’s based on Poole, the Jekyll butler. Built on Poole Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by @mdo. Poole, and every theme built on it (like Lanyon here) includes the following: Complete Jekyll setup included (layouts, config, 404, RSS feed, posts, and example page) Mobile friendly design and development Easily scalable text and component sizing with rem units in the CSS Support for a wide gamut of HTML elements Related posts (time-based, because Jekyll) below each post Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter) Lanyon features In addition to the features of Poole, Lanyon adds the following: Toggleable sliding sidebar (built with only CSS) via ☰ link in top corner Sidebar includes support for textual modules and a dynamically generated navigation with active link support Two orientations for content and sidebar, default (left sidebar) and reverse (right sidebar), available via &lt;body&gt; classes Eight optional color schemes, available via &lt;body&gt; classes Head to the readme to learn more. Browser support Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above. Download Lanyon is developed on and hosted with GitHub. Head to the GitHub repository for downloads, bug reports, and features requests. Thanks!]]></summary></entry><entry><title type="html">Example content</title><link href="http://localhost:4000/lanyon/2014/01/01/example-content/" rel="alternate" type="text/html" title="Example content" /><published>2014-01-01T00:00:00-05:00</published><updated>2014-01-01T00:00:00-05:00</updated><id>http://localhost:4000/lanyon/2014/01/01/example-content</id><content type="html" xml:base="http://localhost:4000/lanyon/2014/01/01/example-content/"><![CDATA[<div class="message">
+  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+</div>
+
+<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. <em>Aenean eu leo quam.</em> Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
+
+<blockquote>
+  <p>Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+</blockquote>
+
+<p>Etiam porta <strong>sem malesuada magna</strong> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+
+<h2 id="inline-html-elements">Inline HTML elements</h2>
+
+<p>HTML defines a long list of available inline tags, a complete list of which can be found on the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">Mozilla Developer Network</a>.</p>
+
+<ul>
+  <li><strong>To bold text</strong>, use <code class="language-plaintext highlighter-rouge">&lt;strong&gt;</code>.</li>
+  <li><em>To italicize text</em>, use <code class="language-plaintext highlighter-rouge">&lt;em&gt;</code>.</li>
+  <li>Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use <code class="language-plaintext highlighter-rouge">&lt;abbr&gt;</code>, with an optional <code class="language-plaintext highlighter-rouge">title</code> attribute for the full phrase.</li>
+  <li>Citations, like <cite>— Mark otto</cite>, should use <code class="language-plaintext highlighter-rouge">&lt;cite&gt;</code>.</li>
+  <li><del>Deleted</del> text should use <code class="language-plaintext highlighter-rouge">&lt;del&gt;</code> and <ins>inserted</ins> text should use <code class="language-plaintext highlighter-rouge">&lt;ins&gt;</code>.</li>
+  <li>Superscript <sup>text</sup> uses <code class="language-plaintext highlighter-rouge">&lt;sup&gt;</code> and subscript <sub>text</sub> uses <code class="language-plaintext highlighter-rouge">&lt;sub&gt;</code>.</li>
+</ul>
+
+<p>Most of these elements are styled by browsers with few modifications on our part.</p>
+
+<h2 id="heading">Heading</h2>
+
+<p>Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+
+<h3 id="code">Code</h3>
+
+<p>Cum sociis natoque penatibus et magnis dis <code class="language-plaintext highlighter-rouge">code element</code> montes, nascetur ridiculus mus.</p>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="c1">// Example can be run directly in your JavaScript console</span>
+
+<span class="c1">// Create a function that takes two arguments and returns the sum of those arguments</span>
+<span class="kd">var</span> <span class="nx">adder</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Function</span><span class="p">(</span><span class="dl">"</span><span class="s2">a</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">b</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">return a + b</span><span class="dl">"</span><span class="p">);</span>
+
+<span class="c1">// Call the function</span>
+<span class="nx">adder</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">6</span><span class="p">);</span>
+<span class="c1">// &gt; 8</span></code></pre></figure>
+
+<p>Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
+
+<h3 id="lists">Lists</h3>
+
+<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+<ul>
+  <li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+  <li>Donec id elit non mi porta gravida at eget metus.</li>
+  <li>Nulla vitae elit libero, a pharetra augue.</li>
+</ul>
+
+<p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
+
+<ol>
+  <li>Vestibulum id ligula porta felis euismod semper.</li>
+  <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
+  <li>Maecenas sed diam eget risus varius blandit sit amet non magna.</li>
+</ol>
+
+<p>Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.</p>
+
+<dl>
+  <dt>HyperText Markup Language (HTML)</dt>
+  <dd>The language used to describe and define the content of a Web page</dd>
+
+  <dt>Cascading Style Sheets (CSS)</dt>
+  <dd>Used to describe the appearance of Web content</dd>
+
+  <dt>JavaScript (JS)</dt>
+  <dd>The programming language used to build advanced Web sites and applications</dd>
+</dl>
+
+<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+
+<h3 id="tables">Tables</h3>
+
+<p>Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Upvotes</th>
+      <th>Downvotes</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Totals</td>
+      <td>21</td>
+      <td>23</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>Alice</td>
+      <td>10</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>Bob</td>
+      <td>4</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Charlie</td>
+      <td>7</td>
+      <td>9</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+
+<hr />
+
+<p>Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a></p>]]></content><author><name>CybrWlf</name></author><summary type="html"><![CDATA[Howdy! This is an example blog post that shows several types of HTML content supported in this theme. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur. Inline HTML elements HTML defines a long list of available inline tags, a complete list of which can be found on the Mozilla Developer Network. To bold text, use &lt;strong&gt;. To italicize text, use &lt;em&gt;. Abbreviations, like HTML should use &lt;abbr&gt;, with an optional title attribute for the full phrase. Citations, like — Mark otto, should use &lt;cite&gt;. Deleted text should use &lt;del&gt; and inserted text should use &lt;ins&gt;. Superscript text uses &lt;sup&gt; and subscript text uses &lt;sub&gt;. Most of these elements are styled by browsers with few modifications on our part. Heading Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Code Cum sociis natoque penatibus et magnis dis code element montes, nascetur ridiculus mus. // Example can be run directly in your JavaScript console // Create a function that takes two arguments and returns the sum of those arguments var adder = new Function("a", "b", "return a + b"); // Call the function adder(2, 6); // &gt; 8 Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa. Lists Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna. Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis. HyperText Markup Language (HTML) The language used to describe and define the content of a Web page Cascading Style Sheets (CSS) Used to describe the appearance of Web content JavaScript (JS) The programming language used to build advanced Web sites and applications Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Tables Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Name Upvotes Downvotes Totals 21 23 Alice 10 11 Bob 4 3 Charlie 7 9 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Want to see something else added? Open an issue.]]></summary></entry><entry><title type="html">What’s Jekyll?</title><link href="http://localhost:4000/lanyon/2013/12/31/whats-jekyll/" rel="alternate" type="text/html" title="What’s Jekyll?" /><published>2013-12-31T00:00:00-05:00</published><updated>2013-12-31T00:00:00-05:00</updated><id>http://localhost:4000/lanyon/2013/12/31/whats-jekyll</id><content type="html" xml:base="http://localhost:4000/lanyon/2013/12/31/whats-jekyll/"><![CDATA[<p><a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From <a href="https://github.com/mojombo/jekyll/blob/master/README.markdown">the project’s readme</a>:</p>
+
+<blockquote>
+  <p>Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.</p>
+</blockquote>
+
+<p>It’s an immensely useful tool and one we encourage you to use here with Lanyon.</p>
+
+<p>Find out more by <a href="https://github.com/mojombo/jekyll">visiting the project on GitHub</a>.</p>]]></content><author><name>CybrWlf</name></author><summary type="html"><![CDATA[Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From the project’s readme: Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub. It’s an immensely useful tool and one we encourage you to use here with Lanyon. Find out more by visiting the project on GitHub.]]></summary></entry><entry><title type="html">Abysal</title><link href="http://localhost:4000/lanyon/members/2002/04/02/Abysal/" rel="alternate" type="text/html" title="Abysal" /><published>2002-04-02T00:00:00-04:00</published><updated>2002-04-02T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/members/2002/04/02/Abysal</id><content type="html" xml:base="http://localhost:4000/lanyon/members/2002/04/02/Abysal/"><![CDATA[<h2 id="veteran-member">Veteran Member</h2>
+<p><img src="/lanyon/public/img_members/Abysal.jpg" alt="Abysal" /></p>
+
+<h2 id="player-profile">Player Profile</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Favorite RTS</th>
+      <th style="text-align: center">Favorite FPS</th>
+      <th style="text-align: center">ICQ number</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Age of Empires II: The Conquerors</td>
+      <td style="text-align: center">Unreal Tournament</td>
+      <td style="text-align: center">14832889</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="personal-input">Personal Input</h2>
+<p>I like to play many RTS games such as : Starcraft : Brood Wars, AOE2 : Expansion, and Homeworld. I like first person shooters, such as UT and Quake3 (which I am god when i play), I also like Counter Strike (a mod for Half-Life - awsome), and of course the best space sim / first person shooter : FreeSpace2. Other then playing games, my other hobbies are networking, and building computers. I have gotten into a real bad habit of constantly upgrading my hardware to maintain a faster machine.</p>
+
+<h2 id="quotes">Quotes</h2>
+<ol>
+  <li>I know how to use a keyboard now!</li>
+  <li>Damn you Fluxy!</li>
+  <li>You don’t exist!</li>
+  <li>Reality is the essance of thought.</li>
+  <li>Don’t cry about it bitch!</li>
+</ol>
+
+<h2 id="computer-specs"><a href="#computer-specs">Computer Specs</a></h2>
+<p><img src="/lanyon/public/img_members/Abysal-pc.jpg" alt="Abysal's computer" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>CPU MHZ @ FSB:</td>
+      <td>Athlon ThunderBird 1533 Mhz</td>
+    </tr>
+    <tr>
+      <td>Mem size &amp; Type</td>
+      <td>768Mb PC2100 DDR</td>
+    </tr>
+    <tr>
+      <td>Operating System:</td>
+      <td>Windows XP Professional</td>
+    </tr>
+    <tr>
+      <td>Video Card:</td>
+      <td>Hercules 3D Prophet III GeForce3 64Mb DDR</td>
+    </tr>
+    <tr>
+      <td>Monitor:</td>
+      <td>NEC FE950+ (Black) 19”</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>CybrWlf</name></author><category term="Members" /><category term="gamer" /><category term="Abysal" /><category term="veteran member" /><category term="stats" /><category term="quotes" /><summary type="html"><![CDATA[Veteran Member Player Profile Favorite RTS Favorite FPS ICQ number Age of Empires II: The Conquerors Unreal Tournament 14832889 Personal Input I like to play many RTS games such as : Starcraft : Brood Wars, AOE2 : Expansion, and Homeworld. I like first person shooters, such as UT and Quake3 (which I am god when i play), I also like Counter Strike (a mod for Half-Life - awsome), and of course the best space sim / first person shooter : FreeSpace2. Other then playing games, my other hobbies are networking, and building computers. I have gotten into a real bad habit of constantly upgrading my hardware to maintain a faster machine. Quotes I know how to use a keyboard now! Damn you Fluxy! You don’t exist! Reality is the essance of thought. Don’t cry about it bitch! Computer Specs CPU MHZ @ FSB: Athlon ThunderBird 1533 Mhz Mem size &amp; Type 768Mb PC2100 DDR Operating System: Windows XP Professional Video Card: Hercules 3D Prophet III GeForce3 64Mb DDR Monitor: NEC FE950+ (Black) 19”]]></summary></entry><entry><title type="html">Flux</title><link href="http://localhost:4000/lanyon/members/2002/04/02/Flux/" rel="alternate" type="text/html" title="Flux" /><published>2002-04-02T00:00:00-04:00</published><updated>2002-04-02T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/members/2002/04/02/Flux</id><content type="html" xml:base="http://localhost:4000/lanyon/members/2002/04/02/Flux/"><![CDATA[<h2 id="veteran-member">Veteran Member</h2>
+<p><img src="/lanyon/public/img_members/Flux.jpg" alt="Flux" /></p>
+
+<h2 id="player-profile">Player Profile</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Favorite RTS</th>
+      <th style="text-align: center">Favorite FPS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">StarCraft: BroodWars</td>
+      <td style="text-align: center">Unreal Tournament</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="personal-input">Personal Input</h2>
+<p>You have to game man, But there us a time for gaming and a time for coding.. Of course it’s been quite a while since I’ve coded, but there is a time for it.. (After gaming) :)</p>
+
+<h2 id="quotes">Quotes</h2>
+<ol>
+  <li>Flux it!</li>
+  <li>Mine is Bigger</li>
+  <li>Go Flux yourself</li>
+</ol>
+
+<h2 id="computer-specs"><a href="#computer-specs">Computer Specs</a></h2>
+<p><img src="/lanyon/public/img_members/generic.jpg" alt="Flux's computer" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>CPU MHZ @ FSB:</td>
+      <td>Athlon XP Thoroughbred 1533 Mhz @ 266Mhz</td>
+    </tr>
+    <tr>
+      <td>Mem size &amp; Type</td>
+      <td>256Mb PC133</td>
+    </tr>
+    <tr>
+      <td>Operating System:</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Video Card:</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Monitor:</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>CybrWlf</name></author><category term="Members" /><category term="gamer" /><category term="Flux" /><category term="veteran member" /><category term="stats" /><category term="quotes" /><summary type="html"><![CDATA[Veteran Member Player Profile Favorite RTS Favorite FPS StarCraft: BroodWars Unreal Tournament Personal Input You have to game man, But there us a time for gaming and a time for coding.. Of course it’s been quite a while since I’ve coded, but there is a time for it.. (After gaming) :) Quotes Flux it! Mine is Bigger Go Flux yourself Computer Specs CPU MHZ @ FSB: Athlon XP Thoroughbred 1533 Mhz @ 266Mhz Mem size &amp; Type 256Mb PC133 Operating System:   Video Card:   Monitor:  ]]></summary></entry><entry><title type="html">LAN2K1 v4</title><link href="http://localhost:4000/lanyon/review/2002/03/28/LAN-Review-LAN2K1-4/" rel="alternate" type="text/html" title="LAN2K1 v4" /><published>2002-03-28T00:00:00-04:00</published><updated>2002-03-28T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/review/2002/03/28/LAN-Review-LAN2K1-4</id><content type="html" xml:base="http://localhost:4000/lanyon/review/2002/03/28/LAN-Review-LAN2K1-4/"><![CDATA[<h1 id="lan2k1">LAN2K1</h1>
+
+<h2 id="introduction">Introduction</h2>
+<p><img src="/lanyon/public/img_reviews/xlan2k1-4-0.jpg" alt="Image" />
+BIGGER. BETTER. DA BOMB!!!
+This is the second time me and Abysal went to Lan2k1 and it just gets better each time. Well this time we brought backup. 12 of us were there and we showed them what it means to be a GOD!!! Since so many GODS showed up I decided to get some input from them too.</p>
+
+<h2 id="stability">Stability</h2>
+<h3 id="rating-90">Rating 9.0</h3>
+<p><img src="/lanyon/public/img_reviews/xlan2k1-4-1.jpg" alt="Image" />
+3 parties, 60+ people ( I dunno if we ever got a FINAL count of how many), and WHOLE HECK OF ALOT OF BAWLS!!! We can be as loud as we want… never have to worry about being crowded… and frag and frag to our little hearts content. This place is great but I really think we are begining to see the max possiblity of this location. Not to say 60+ isn’t a good number but I dunno where they are gonna put people, let alone get power for them.</p>
+
+<h2 id="reuseability">ReUseability</h2>
+<h3 id="rating-89">Rating 8.9</h3>
+<p><img src="/lanyon/public/img_reviews/xlan2k1-4-2.jpg" alt="Image" />
+Yo, I had a great time at this LAN. Was expecting more competition plus more tournaments to occur but they all didn’t due to time. Anyhow it was great owning it up :) I’m glad I won the p4 chip and mobo…. muwhaha. Till next LAN hopefully more tournaments will happen. Can’t wait &gt;:)
+-DoomXexec311-</p>
+
+<p><img src="/lanyon/public/img_reviews/xlan2k1-4-3.jpg" alt="Image" />
+I would definitely come back to lan 2k1. There was a lot going on and always 2 or 3 different games to play. There were lots of cool people. A couple of annoying people, but that’s to be expected. I definitely would recommend it to everyone. Just a tip though, treat your stuff as if you were leaving it out on the sidewalk, this is a public event not a friendly one. Keep an eye on everything, and don’t leave your stuff lying about.
+-CyberFireX-</p>
+
+<h2 id="compatability">Compatability</h2>
+<h3 id="rating-80">Rating 8.0</h3>
+<p><img src="/lanyon/public/img_reviews/xlan2k1-4-4.jpg" alt="Image" />
+Well it was bound to happen. The more people you add to the mix the more of a chance that 1 of them will piss someone off. Luckly it was handled very quietly and I believe all in volved realized what they did wasnot the best thing to do. For those not in the know… Don’t worry about it. It was nothing, just keep in mind that this is a big even and people from all over attend these. It’s not a party of friends and what you think is funny might piss someone else off.</p>
+
+<h2 id="grafix">Grafix</h2>
+<h3 id="rating-90-1">Rating 9.0</h3>
+<p><img src="/lanyon/public/img_reviews/xlan2k1-4-5.jpg" alt="Image" />
+The projection screen made a come back and was nice to watch. No Fog or Disco lights which was good.</p>
+
+<h2 id="fx">FX</h2>
+<h3 id="80">8.0</h3>
+<p><img src="/lanyon/public/img_reviews/xlan2k1-4-6.jpg" alt="Image" />
+Everything was fine, UNTIL… (Blinding light!!!) Yep some one managed to find the light switch and take down half the GODS crew. I know we were kicking some butt, but come one… there has got to be a better way to beat us without blowing a circuit breaker. Just kidding!!!
+-CyberFireX-</p>
+
+<p><img src="/lanyon/public/img_reviews/xlan2k1-4-7.jpg" alt="Image" />
+The prizes were awesome, and the raffle was a good idea. The fact that he gave away the best prizes as raffles meant that the games were more for fun than bitter competition. The observer view screen was a great idea, it let people watch the battle without crowding the gamers. The network was great. My only real complaint was that the microphone they were using was highly inadequate, they should consider putting speakers around the room for that, or multiple boxes, and doing rogerwilco. They had a great idea with posting an intranet webpage, and putting common drivers, and game patches up there so that everyone could get to them.</p>
+
+<h2 id="network">Network</h2>
+<h3 id="rate-95">Rate: 9.5</h3>
+<p><img src="/lanyon/public/img_reviews/xlan2k1-4-8.jpg" alt="Image" />
+As usual an impressive setup. Fiber uplinks were nice but we noticed that the 3 Switches were not in use, only 2. Dunno what happened… not sure anyone really does but it’s just an observasion. In LAN2k1’s defense they ran good old CAT5 to the GODS section and all was good. The “overflow” area(I think it was up front) made good use of my 16 port switch. I was happy to help. OH speaking of HELP. I met some great guys at Lan2k1… Why? cause they were haveing some problems getting connected. While I don’t mind helping (and these guys were great guys to hang with too) I do get just a little upset when people don’t test their hardware. The problem boiled down to a bad Cat5 cable they brought from home. Like I said I didn’t mind helping but please… PLEASE!!!…. check your stuff BEFORE you come to a party. It saves time and you’ll get into the game faster.</p>
+
+<h2 id="overall">Overall</h2>
+<h3 id="rate-10">Rate: 10</h3>
+<p><img src="/lanyon/public/img_reviews/xlan2k1-4-9.jpg" alt="Image" />
+I love lan parties, I can’t imagine how boring my life would be with out them. I’ve been to Lan parties before, but I gotta say, lan2k1 throws the best ones! Especially this time around, there was food, plenty of drinks, and tons, tons of gaming! Can it really get any better then this? My friends and I also host lan parties on a monthly basis, and I hope that one day we can put something togther like lan2k1 did. Great job lan2k1!	
+-=AbysaL=-</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>I’m glad 8-Ball made an apperance, dunno if it would have been the same with out him. Well Lan2k1 has done it again. I hope they keep doing it too for years to come. Games, Tourneys, Meatballs (which were great)… we got it all and Bawls to wash it all down. Can’t wait till v5.0 AND the big party at Greenfields Fire Hall (Watch for it on LAN2k1’s site). I’ll see ya at the next lanparty!</p>]]></content><author><name>cybrwlf</name></author><category term="review" /><category term="lanparty" /><category term="LAN2K1" /><summary type="html"><![CDATA[This is the first post of the "posts" collection.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/lanyon/files/images/china-street.jpg" /><media:content medium="image" url="http://localhost:4000/lanyon/files/images/china-street.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Game Review - Red Faction</title><link href="http://localhost:4000/lanyon/review/2001/11/07/Game-Review-Red-Faction/" rel="alternate" type="text/html" title="Game Review - Red Faction" /><published>2001-11-07T00:00:00-05:00</published><updated>2001-11-07T00:00:00-05:00</updated><id>http://localhost:4000/lanyon/review/2001/11/07/Game-Review-Red-Faction</id><content type="html" xml:base="http://localhost:4000/lanyon/review/2001/11/07/Game-Review-Red-Faction/"><![CDATA[<h1 id="game--red-faction">Game : Red Faction</h1>
+<p>Creator : <a href="http://www.redfaction.com/">THQ / Volition</a>
+Date : 11/7/2001
+Reviewer: <a href="./members/View_Mbr.asp?UserName=Abysal">Abysal</a>
+Version: 1.10</p>
+
+<h2 id="introduction">Introduction</h2>
+<p>Red Faction is a new game with a new feature that I'll be raving about for a while and it's called envionmental damage! Single player mode has a pretty good plot and it seems that the game can be completed via different "routes" taken through some of the levels. Multiplayer games support upto 32 poeple. Weapons are more realistic then Q3 or UT, and same goes for how ammo is done. You have to reload your weapon much like in Counter-Strike.</p>
+
+<h2 id="requirements">Requirements</h2>
+<ol>
+  <li>Minimum Required
+    <ul>
+      <li>K6-2 350 MHz</li>
+      <li>64 MB Ram + OS and other Ram requirements and 1.2 GB HD space</li>
+      <li>For video you need a TNT or ATI Rage 128 type video Card with at least 16 MB Ram</li>
+    </ul>
+  </li>
+  <li>Recommended
+    <ul>
+      <li>Thunderbird / Duron / Pentium III @ 750 MHz</li>
+      <li>128 MB Ram</li>
+      <li>GeForce, Radeon, Kryo II, and a hard drive to accommodate 1.2 GB of game data.</li>
+    </ul>
+  </li>
+  <li><a href="/lanyon/members/2002/04/02/Abysal/#computer-specs">Test PC</a></li>
+</ol>
+
+<h2 id="stability">Stability</h2>
+<p>Rate: 9
+First off, games works right out of the box v.1.0 is stable and smooth.
+The v.1.10 patch also showed the same. I only experienced two crash instances where I was kicked to the desktop.</p>
+
+<p><img src="/lanyon/public/img_reviews/xRF-0.jpg" alt="Image" /></p>
+
+<h2 id="reuseability">ReUseability</h2>
+
+<p>Rate: 7</p>
+
+<p>There seem to be multiple routes to take through the levels. Also the way NPC's interact with you seems to vary.</p>
+
+<h2 id="compatability">Compatability</h2>
+
+<p>Rate: 9</p>
+
+<p>Compatability looks real good, this game ran on every body's hardware here at LanParty 2000. And it was also pretty heavily played at LAN2k1, and I think 1 person may have had a problem with it running on his TNT2, I think the Nvidia Detonator drivers were to blame.</p>
+
+<p><img src="/lanyon/public/img_reviews/xRF-2.jpg" alt="Image" /></p>
+
+<h2 id="grafix">Grafix</h2>
+
+<p>Rate: 8</p>
+
+<p>Graphics are what we all expect from games like UT and Quake 3.</p>
+
+<p><img src="/lanyon/public/img_reviews/xRF-3.jpg" alt="Image" /></p>
+
+<h2 id="fx">FX</h2>
+
+<p>Rate: 9</p>
+
+<p>Environmental damage - 'nuff said.</p>
+
+<h2 id="network">Network</h2>
+
+<p>Rate: 9</p>
+
+<p>The game uses TCP/IP for network play. The latency is great over LAN.</p>
+
+<h2 id="overall">Overall</h2>
+
+<p>Rate: 8</p>
+
+<p>Great game, I highly recommend it for multi player gamming as well as going through the single player game.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>This is one of the new multi-player first person shooters that is a must try. The envionmental damage rocks! And one LAN I love to look at peoples faces when I blow the bridge out from under them :b Hopefully more future games will adopt envionmental damage.</p>]]></content><author><name>Abysal</name></author><category term="review" /><category term="game" /><category term="redfaction" /><category term="thq" /><category term="volition" /><summary type="html"><![CDATA[And one LAN I love to look at peoples faces when I blow the bridge out from under them :b]]></summary></entry></feed>
