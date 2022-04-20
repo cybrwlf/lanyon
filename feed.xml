@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/lanyon/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/lanyon/" rel="alternate" type="text/html" /><updated>2022-04-19T04:23:50-04:00</updated><id>http://localhost:4000/lanyon/feed.xml</id><title type="html">Codinfox Lanyon</title><subtitle>Gamers of Divers strategy. Layout made by &lt;a href=&quot;http://codinfox.github.io&quot; target=&quot;_blank&quot;&gt;@codinfox&lt;/a&gt;.</subtitle><author><name>CybrWlf</name></author><entry><title type="html">Welcome to LPG!</title><link href="http://localhost:4000/lanyon/update/news/2022/04/17/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to LPG!" /><published>2022-04-17T23:57:27-04:00</published><updated>2022-04-17T23:57:27-04:00</updated><id>http://localhost:4000/lanyon/update/news/2022/04/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/lanyon/update/news/2022/04/17/welcome-to-jekyll/"><![CDATA[<h1 id="under-construction">Under construction!</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/lanyon/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/lanyon/" rel="alternate" type="text/html" /><updated>2022-04-20T01:52:01-04:00</updated><id>http://localhost:4000/lanyon/feed.xml</id><title type="html">Codinfox Lanyon</title><subtitle>Gamers of Divers strategy. Layout made by &lt;a href=&quot;http://codinfox.github.io&quot; target=&quot;_blank&quot;&gt;@codinfox&lt;/a&gt;.</subtitle><author><name>CybrWlf</name></author><entry><title type="html">Welcome to LPG!</title><link href="http://localhost:4000/lanyon/news/2022/04/17/Welcome-to-LanPartyGods/" rel="alternate" type="text/html" title="Welcome to LPG!" /><published>2022-04-17T23:57:27-04:00</published><updated>2022-04-17T23:57:27-04:00</updated><id>http://localhost:4000/lanyon/news/2022/04/17/Welcome-to-LanPartyGods</id><content type="html" xml:base="http://localhost:4000/lanyon/news/2022/04/17/Welcome-to-LanPartyGods/"><![CDATA[<h1 id="under-construction">Under construction!</h1>
 <p><img src="/lanyon/public/img/phoenix.png" alt="From the Ashes" /></p>
 
 <!-- 
@@ -25,173 +25,52 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
--->]]></content><author><name>CybrWlf</name></author><category term="update" /><category term="news" /><summary type="html"><![CDATA[Under construction!]]></summary></entry><entry><title type="html">Introducing Lanyon</title><link href="http://localhost:4000/lanyon/2014/01/02/introducing-lanyon/" rel="alternate" type="text/html" title="Introducing Lanyon" /><published>2014-01-02T00:00:00-05:00</published><updated>2014-01-02T00:00:00-05:00</updated><id>http://localhost:4000/lanyon/2014/01/02/introducing-lanyon</id><content type="html" xml:base="http://localhost:4000/lanyon/2014/01/02/introducing-lanyon/"><![CDATA[<p>Lanyon is an unassuming <a href="http://jekyllrb.com">Jekyll</a> theme that places content first by tucking away navigation in a hidden drawer. It’s based on <a href="http://getpoole.com">Poole</a>, the Jekyll butler.</p>
+-->]]></content><author><name>CybrWlf</name></author><category term="news" /><summary type="html"><![CDATA[Under construction!]]></summary></entry><entry><title type="html">Lanparty Review - LANSynergy I</title><link href="http://localhost:4000/lanyon/lanparties/2003/02/07/LAN-Review-LANSynergy-I/" rel="alternate" type="text/html" title="Lanparty Review - LANSynergy I" /><published>2003-02-07T00:00:00-05:00</published><updated>2003-02-07T00:00:00-05:00</updated><id>http://localhost:4000/lanyon/lanparties/2003/02/07/LAN-Review-LANSynergy-I</id><content type="html" xml:base="http://localhost:4000/lanyon/lanparties/2003/02/07/LAN-Review-LANSynergy-I/"><![CDATA[<h1 id="lansynergy-i">LANSynergy I</h1>
 
-<h3 id="built-on-poole">Built on Poole</h3>
+<h2 id="introduction">Introduction</h2>
+<p>TheCyberWolf - They’ve done it again… An excelent lan party done at a large scale. And as always this one was the BEST yet. How can that be? you ask since the last one was “the best”, well let me see if we can explain.</p>
 
-<p>Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by <a href="https://twitter.com/mdo">@mdo</a>. Poole, and every theme built on it (like Lanyon here) includes the following:</p>
+<h2 id="stability">Stability</h2>
+<h3 id="rating-90">Rating 9.0</h3>
+<p><img src="/lanyon/public/img_reviews/lans1-01.jpg" alt="Image" />
+Sleggs (GoDS Guest) - The lan party was awsome. most of the people arrived around 7:00. everyone had a great time showing off their most recent mods, crazy case designs, and witty t-shirt slogans. all the tournements went off without a hitch. everyone had a great time fragging their friends and winning prizes. with a full stock of bawls and plenty of pizza to go around nothing could stop us from gaming to the max. i had a great time and am definitly planning of attending in the future.</p>
 
-<ul>
-  <li>Complete Jekyll setup included (layouts, config, <a href="/404">404</a>, <a href="/atom.xml">RSS feed</a>, posts, and <a href="/about">example page</a>)</li>
-  <li>Mobile friendly design and development</li>
-  <li>Easily scalable text and component sizing with <code class="language-plaintext highlighter-rouge">rem</code> units in the CSS</li>
-  <li>Support for a wide gamut of HTML elements</li>
-  <li>Related posts (time-based, because Jekyll) below each post</li>
-  <li>Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)</li>
-</ul>
+<h2 id="reuseability">ReUseability</h2>
+<h3 id="rating-10">Rating 10</h3>
+<p><img src="/lanyon/public/img_reviews/lans1-02.jpg" alt="Image" />
+CyberFireX - I thought that this was an excellent party and one that shouldn’t have been missed. It was an excellent outting for the first go as Lan Synergy, and aside from one theft really didn’t have much in the way of bad events. I was a bit unhappy with the total non availablility of drinks except for beer. They should have ditched the snow cones and actually gotten drinks. They seemed to have the power situation almost completely undercontrol (except for poor cyberwolfs table) :-), and the network was actually fairly stable though still not fast. Excelent prizes, interesting concept of having the tourneys run by the attending clans. I had a good time and can’t wait for LanS 2!</p>
 
-<h3 id="lanyon-features">Lanyon features</h3>
+<h2 id="compatability">Compatability</h2>
+<h3 id="rating-80">Rating 8.0</h3>
+<p><img src="/lanyon/public/img_reviews/lans1-03.jpg" alt="Image" />
+Abysal - There were plenty of games up at all times, but with about 100 people that should be expected. As far as the people go, most were pretty cool, however there was one incident were someone’s laptop was taken. That goes to show you that even though we are all gamerz, this still was a public event and you should watch your stuff. Someone from the [GoDS] group was always around keeping an eye out when ever the others were out at WAWA or where ever.</p>
 
-<p>In addition to the features of Poole, Lanyon adds the following:</p>
+<h2 id="grafix">Grafix</h2>
+<h3 id="rating-90-1">Rating 9.0</h3>
+<p><img src="/lanyon/public/img_reviews/lans1-04.jpg" alt="Image" />
+Abysal - The actual tournaments of the event were fairly well scheduled and setup. One problem was that dedicated servers seemed to be a royalty. Luckily I brought my server with me and after the initial time to load and Config the server, I had UT2003 ready to go for the tourneys, a Big thanks to XP for their help. The other problem that affected more people was the network latency. Allot of times you would see pings in the 75 - 90 ms range. I think most of us expect &lt; 30 ms pings in games. Although honestly you really didn’t notice it too much. Once again DoomXexec311 took the CS MVP title, although he had some good competition from “gsg Bruce”. Other then that [GoDS] did not take any other titles.</p>
 
-<ul>
-  <li>Toggleable sliding sidebar (built with only CSS) via <strong>☰</strong> link in top corner</li>
-  <li>Sidebar includes support for textual modules and a dynamically generated navigation with active link support</li>
-  <li>Two orientations for content and sidebar, default (left sidebar) and <a href="https://github.com/poole/lanyon#reverse-layout">reverse</a> (right sidebar), available via <code class="language-plaintext highlighter-rouge">&lt;body&gt;</code> classes</li>
-  <li><a href="https://github.com/poole/lanyon#themes">Eight optional color schemes</a>, available via <code class="language-plaintext highlighter-rouge">&lt;body&gt;</code> classes</li>
-</ul>
+<h2 id="fx">FX</h2>
+<h3 id="100">10.0</h3>
+<p><img src="/lanyon/public/img_reviews/lans1-05.jpg" alt="Image" />
+Abysal - Power, power, and plenty of power! I must congratulate the LAN Synergy team for doing a superb job on power distribution. There was only one outage due to someone plugging into the wall rather then plugging into the allocated power cables. However I do not know the full severity since I slept through it :p</p>
 
-<p><a href="https://github.com/poole/lanyon#readme">Head to the readme</a> to learn more.</p>
+<h2 id="network">Network</h2>
+<h3 id="rate-85">Rate: 8.5</h3>
+<p><img src="/lanyon/public/img_reviews/lans1-06.jpg" alt="Image" />
+Abysal - The network was fairly quick taking into account the amount of people we had with all of the games + other misc traffic going on. File transfer speed on my switch segment was great, I know my self and other [GoDS] members were on a 100 Megabit switch/hub. However I think those were hubs, and that is why network lag was so high in games as mentioned above.</p>
 
-<h3 id="browser-support">Browser support</h3>
+<h2 id="overall">Overall</h2>
+<h3 id="rate-9">Rate: 9</h3>
+<p><img src="/lanyon/public/img_reviews/lans1-07.jpg" alt="Image" />
+Abysal - LAN Synergy usually provides or allows gamers to bring alcohol. In the past I did not really care for this idea. But as with the last 3 previous parties there were no incidents at this one. Even 8-Ball was un characteristically quite. So I think I have accepted the idea of alcohol at these parties, I even found my self drinking a good amount… As far as food goes, pizza was provided, about 2 - 3 slices per person. Non-Alcohol drinks were not provided, and I think most groups brought drinks for themselves.
+Also, cost wise the party was a bit expensive @ $35 per person. But since the last parties ran over the budget, this was to be expected. Over all a very well planned party.</p>
 
-<p>Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>TheCyberWolf - Well I hope this helps explain wht this was “the best” lanparty but if it didn’t then all I can say is you have to be there for the Next one and figure it out for yourself. See you all at the next one and remeber PRE-PAY GUARENTEES YOU A SEAT!!!</p>
 
-<h3 id="download">Download</h3>
-
-<p>Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.</p>
-
-<p>Thanks!</p>]]></content><author><name>CybrWlf</name></author><summary type="html"><![CDATA[Lanyon is an unassuming Jekyll theme that places content first by tucking away navigation in a hidden drawer. It’s based on Poole, the Jekyll butler. Built on Poole Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by @mdo. Poole, and every theme built on it (like Lanyon here) includes the following: Complete Jekyll setup included (layouts, config, 404, RSS feed, posts, and example page) Mobile friendly design and development Easily scalable text and component sizing with rem units in the CSS Support for a wide gamut of HTML elements Related posts (time-based, because Jekyll) below each post Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter) Lanyon features In addition to the features of Poole, Lanyon adds the following: Toggleable sliding sidebar (built with only CSS) via ☰ link in top corner Sidebar includes support for textual modules and a dynamically generated navigation with active link support Two orientations for content and sidebar, default (left sidebar) and reverse (right sidebar), available via &lt;body&gt; classes Eight optional color schemes, available via &lt;body&gt; classes Head to the readme to learn more. Browser support Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above. Download Lanyon is developed on and hosted with GitHub. Head to the GitHub repository for downloads, bug reports, and features requests. Thanks!]]></summary></entry><entry><title type="html">Example content</title><link href="http://localhost:4000/lanyon/2014/01/01/example-content/" rel="alternate" type="text/html" title="Example content" /><published>2014-01-01T00:00:00-05:00</published><updated>2014-01-01T00:00:00-05:00</updated><id>http://localhost:4000/lanyon/2014/01/01/example-content</id><content type="html" xml:base="http://localhost:4000/lanyon/2014/01/01/example-content/"><![CDATA[<div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-</div>
-
-<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. <em>Aenean eu leo quam.</em> Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
-
-<blockquote>
-  <p>Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-</blockquote>
-
-<p>Etiam porta <strong>sem malesuada magna</strong> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
-
-<h2 id="inline-html-elements">Inline HTML elements</h2>
-
-<p>HTML defines a long list of available inline tags, a complete list of which can be found on the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">Mozilla Developer Network</a>.</p>
-
-<ul>
-  <li><strong>To bold text</strong>, use <code class="language-plaintext highlighter-rouge">&lt;strong&gt;</code>.</li>
-  <li><em>To italicize text</em>, use <code class="language-plaintext highlighter-rouge">&lt;em&gt;</code>.</li>
-  <li>Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use <code class="language-plaintext highlighter-rouge">&lt;abbr&gt;</code>, with an optional <code class="language-plaintext highlighter-rouge">title</code> attribute for the full phrase.</li>
-  <li>Citations, like <cite>— Mark otto</cite>, should use <code class="language-plaintext highlighter-rouge">&lt;cite&gt;</code>.</li>
-  <li><del>Deleted</del> text should use <code class="language-plaintext highlighter-rouge">&lt;del&gt;</code> and <ins>inserted</ins> text should use <code class="language-plaintext highlighter-rouge">&lt;ins&gt;</code>.</li>
-  <li>Superscript <sup>text</sup> uses <code class="language-plaintext highlighter-rouge">&lt;sup&gt;</code> and subscript <sub>text</sub> uses <code class="language-plaintext highlighter-rouge">&lt;sub&gt;</code>.</li>
-</ul>
-
-<p>Most of these elements are styled by browsers with few modifications on our part.</p>
-
-<h2 id="heading">Heading</h2>
-
-<p>Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
-
-<h3 id="code">Code</h3>
-
-<p>Cum sociis natoque penatibus et magnis dis <code class="language-plaintext highlighter-rouge">code element</code> montes, nascetur ridiculus mus.</p>
-
-<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="c1">// Example can be run directly in your JavaScript console</span>
-
-<span class="c1">// Create a function that takes two arguments and returns the sum of those arguments</span>
-<span class="kd">var</span> <span class="nx">adder</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Function</span><span class="p">(</span><span class="dl">"</span><span class="s2">a</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">b</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">return a + b</span><span class="dl">"</span><span class="p">);</span>
-
-<span class="c1">// Call the function</span>
-<span class="nx">adder</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">6</span><span class="p">);</span>
-<span class="c1">// &gt; 8</span></code></pre></figure>
-
-<p>Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
-
-<h3 id="lists">Lists</h3>
-
-<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-
-<ul>
-  <li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
-  <li>Donec id elit non mi porta gravida at eget metus.</li>
-  <li>Nulla vitae elit libero, a pharetra augue.</li>
-</ul>
-
-<p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
-
-<ol>
-  <li>Vestibulum id ligula porta felis euismod semper.</li>
-  <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
-  <li>Maecenas sed diam eget risus varius blandit sit amet non magna.</li>
-</ol>
-
-<p>Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.</p>
-
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
-
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
-
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
-
-<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
-
-<h3 id="tables">Tables</h3>
-
-<p>Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
-
-<hr />
-
-<p>Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a></p>]]></content><author><name>CybrWlf</name></author><summary type="html"><![CDATA[Howdy! This is an example blog post that shows several types of HTML content supported in this theme. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur. Inline HTML elements HTML defines a long list of available inline tags, a complete list of which can be found on the Mozilla Developer Network. To bold text, use &lt;strong&gt;. To italicize text, use &lt;em&gt;. Abbreviations, like HTML should use &lt;abbr&gt;, with an optional title attribute for the full phrase. Citations, like — Mark otto, should use &lt;cite&gt;. Deleted text should use &lt;del&gt; and inserted text should use &lt;ins&gt;. Superscript text uses &lt;sup&gt; and subscript text uses &lt;sub&gt;. Most of these elements are styled by browsers with few modifications on our part. Heading Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Code Cum sociis natoque penatibus et magnis dis code element montes, nascetur ridiculus mus. // Example can be run directly in your JavaScript console // Create a function that takes two arguments and returns the sum of those arguments var adder = new Function("a", "b", "return a + b"); // Call the function adder(2, 6); // &gt; 8 Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa. Lists Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna. Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis. HyperText Markup Language (HTML) The language used to describe and define the content of a Web page Cascading Style Sheets (CSS) Used to describe the appearance of Web content JavaScript (JS) The programming language used to build advanced Web sites and applications Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Tables Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Name Upvotes Downvotes Totals 21 23 Alice 10 11 Bob 4 3 Charlie 7 9 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Want to see something else added? Open an issue.]]></summary></entry><entry><title type="html">What’s Jekyll?</title><link href="http://localhost:4000/lanyon/2013/12/31/whats-jekyll/" rel="alternate" type="text/html" title="What’s Jekyll?" /><published>2013-12-31T00:00:00-05:00</published><updated>2013-12-31T00:00:00-05:00</updated><id>http://localhost:4000/lanyon/2013/12/31/whats-jekyll</id><content type="html" xml:base="http://localhost:4000/lanyon/2013/12/31/whats-jekyll/"><![CDATA[<p><a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From <a href="https://github.com/mojombo/jekyll/blob/master/README.markdown">the project’s readme</a>:</p>
-
-<blockquote>
-  <p>Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.</p>
-</blockquote>
-
-<p>It’s an immensely useful tool and one we encourage you to use here with Lanyon.</p>
-
-<p>Find out more by <a href="https://github.com/mojombo/jekyll">visiting the project on GitHub</a>.</p>]]></content><author><name>CybrWlf</name></author><summary type="html"><![CDATA[Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From the project’s readme: Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub. It’s an immensely useful tool and one we encourage you to use here with Lanyon. Find out more by visiting the project on GitHub.]]></summary></entry><entry><title type="html">Abysal</title><link href="http://localhost:4000/lanyon/members/2002/04/02/Abysal/" rel="alternate" type="text/html" title="Abysal" /><published>2002-04-02T00:00:00-04:00</published><updated>2002-04-02T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/members/2002/04/02/Abysal</id><content type="html" xml:base="http://localhost:4000/lanyon/members/2002/04/02/Abysal/"><![CDATA[<h2 id="veteran-member">Veteran Member</h2>
-<p><img src="/lanyon/public/img_members/Abysal.jpg" alt="Abysal" /></p>
+<p><img src="/lanyon/public/img_reviews/lans1-08.jpg" alt="Image" /> <img src="/lanyon/public/img_reviews/lans1-09.jpg" alt="Image" /> <img src="/lanyon/public/img_reviews/lans1-10.jpg" alt="Image" /></p>]]></content><author><name>[&quot;TheCyberWolf&quot;, &quot;CyberFireX&quot;, &quot;Abysal&quot;, &quot;Sleggs(Guest)&quot;]</name></author><category term="Lanparties" /><category term="lanparty" /><category term="LANSynergy I" /><summary type="html"><![CDATA[LANSynergy I Introduction TheCyberWolf - They’ve done it again… An excelent lan party done at a large scale. And as always this one was the BEST yet. How can that be? you ask since the last one was “the best”, well let me see if we can explain. Stability Rating 9.0 Sleggs (GoDS Guest) - The lan party was awsome. most of the people arrived around 7:00. everyone had a great time showing off their most recent mods, crazy case designs, and witty t-shirt slogans. all the tournements went off without a hitch. everyone had a great time fragging their friends and winning prizes. with a full stock of bawls and plenty of pizza to go around nothing could stop us from gaming to the max. i had a great time and am definitly planning of attending in the future. ReUseability Rating 10 CyberFireX - I thought that this was an excellent party and one that shouldn’t have been missed. It was an excellent outting for the first go as Lan Synergy, and aside from one theft really didn’t have much in the way of bad events. I was a bit unhappy with the total non availablility of drinks except for beer. They should have ditched the snow cones and actually gotten drinks. They seemed to have the power situation almost completely undercontrol (except for poor cyberwolfs table) :-), and the network was actually fairly stable though still not fast. Excelent prizes, interesting concept of having the tourneys run by the attending clans. I had a good time and can’t wait for LanS 2! Compatability Rating 8.0 Abysal - There were plenty of games up at all times, but with about 100 people that should be expected. As far as the people go, most were pretty cool, however there was one incident were someone’s laptop was taken. That goes to show you that even though we are all gamerz, this still was a public event and you should watch your stuff. Someone from the [GoDS] group was always around keeping an eye out when ever the others were out at WAWA or where ever. Grafix Rating 9.0 Abysal - The actual tournaments of the event were fairly well scheduled and setup. One problem was that dedicated servers seemed to be a royalty. Luckily I brought my server with me and after the initial time to load and Config the server, I had UT2003 ready to go for the tourneys, a Big thanks to XP for their help. The other problem that affected more people was the network latency. Allot of times you would see pings in the 75 - 90 ms range. I think most of us expect &lt; 30 ms pings in games. Although honestly you really didn’t notice it too much. Once again DoomXexec311 took the CS MVP title, although he had some good competition from “gsg Bruce”. Other then that [GoDS] did not take any other titles. FX 10.0 Abysal - Power, power, and plenty of power! I must congratulate the LAN Synergy team for doing a superb job on power distribution. There was only one outage due to someone plugging into the wall rather then plugging into the allocated power cables. However I do not know the full severity since I slept through it :p Network Rate: 8.5 Abysal - The network was fairly quick taking into account the amount of people we had with all of the games + other misc traffic going on. File transfer speed on my switch segment was great, I know my self and other [GoDS] members were on a 100 Megabit switch/hub. However I think those were hubs, and that is why network lag was so high in games as mentioned above. Overall Rate: 9 Abysal - LAN Synergy usually provides or allows gamers to bring alcohol. In the past I did not really care for this idea. But as with the last 3 previous parties there were no incidents at this one. Even 8-Ball was un characteristically quite. So I think I have accepted the idea of alcohol at these parties, I even found my self drinking a good amount… As far as food goes, pizza was provided, about 2 - 3 slices per person. Non-Alcohol drinks were not provided, and I think most groups brought drinks for themselves. Also, cost wise the party was a bit expensive @ $35 per person. But since the last parties ran over the budget, this was to be expected. Over all a very well planned party. Conclusion TheCyberWolf - Well I hope this helps explain wht this was “the best” lanparty but if it didn’t then all I can say is you have to be there for the Next one and figure it out for yourself. See you all at the next one and remeber PRE-PAY GUARENTEES YOU A SEAT!!!]]></summary></entry><entry><title type="html">Sythro</title><link href="http://localhost:4000/lanyon/members/2002/04/02/Sythro/" rel="alternate" type="text/html" title="Sythro" /><published>2002-04-02T00:00:00-04:00</published><updated>2002-04-02T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/members/2002/04/02/Sythro</id><content type="html" xml:base="http://localhost:4000/lanyon/members/2002/04/02/Sythro/"><![CDATA[<h2 id="veteran-member">Veteran Member</h2>
+<p><img src="/lanyon/public/img_members/Sythro.jpg" alt="Sythro" /></p>
 
 <h2 id="player-profile">Player Profile</h2>
 
@@ -200,57 +79,30 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
     <tr>
       <th style="text-align: center">Favorite RTS</th>
       <th style="text-align: center">Favorite FPS</th>
-      <th style="text-align: center">ICQ number</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">Age of Empires II: The Conquerors</td>
+      <td style="text-align: center">StarCraft: BroodWars</td>
       <td style="text-align: center">Unreal Tournament</td>
-      <td style="text-align: center">14832889</td>
     </tr>
   </tbody>
 </table>
 
 <h2 id="personal-input">Personal Input</h2>
-<p>I like to play many RTS games such as : Starcraft : Brood Wars, AOE2 : Expansion, and Homeworld. I like first person shooters, such as UT and Quake3 (which I am god when i play), I also like Counter Strike (a mod for Half-Life - awsome), and of course the best space sim / first person shooter : FreeSpace2. Other then playing games, my other hobbies are networking, and building computers. I have gotten into a real bad habit of constantly upgrading my hardware to maintain a faster machine.</p>
+<p>Alright, so I’m not a networking genius.  I know that you plug the RJ-45 into the router and configure for DHCP based on a generic subnet and the rest is.. Huh?</p>
 
 <h2 id="quotes">Quotes</h2>
 <ol>
-  <li>I know how to use a keyboard now!</li>
-  <li>Damn you Fluxy!</li>
-  <li>You don’t exist!</li>
-  <li>Reality is the essance of thought.</li>
-  <li>Don’t cry about it bitch!</li>
+  <li>See, it’s a matter of fully upgraded vs. non-fully upgraded.</li>
+  <li>Heh heh heh… No</li>
+  <li>Um. Dude. Help</li>
+  <li>YA HA HA HOI!!</li>
+  <li>Hmm.. What’s that sound?.. I hear Dark Templar… Heh.</li>
 </ol>
 
 <h2 id="computer-specs"><a href="#computer-specs">Computer Specs</a></h2>
-<p><img src="/lanyon/public/img_members/Abysal-pc.jpg" alt="Abysal's computer" /></p>
-
-<table>
-  <tbody>
-    <tr>
-      <td>CPU MHZ @ FSB:</td>
-      <td>Athlon ThunderBird 1533 Mhz</td>
-    </tr>
-    <tr>
-      <td>Mem size &amp; Type</td>
-      <td>768Mb PC2100 DDR</td>
-    </tr>
-    <tr>
-      <td>Operating System:</td>
-      <td>Windows XP Professional</td>
-    </tr>
-    <tr>
-      <td>Video Card:</td>
-      <td>Hercules 3D Prophet III GeForce3 64Mb DDR</td>
-    </tr>
-    <tr>
-      <td>Monitor:</td>
-      <td>NEC FE950+ (Black) 19”</td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name>CybrWlf</name></author><category term="Members" /><category term="gamer" /><category term="Abysal" /><category term="veteran member" /><category term="stats" /><category term="quotes" /><summary type="html"><![CDATA[Veteran Member Player Profile Favorite RTS Favorite FPS ICQ number Age of Empires II: The Conquerors Unreal Tournament 14832889 Personal Input I like to play many RTS games such as : Starcraft : Brood Wars, AOE2 : Expansion, and Homeworld. I like first person shooters, such as UT and Quake3 (which I am god when i play), I also like Counter Strike (a mod for Half-Life - awsome), and of course the best space sim / first person shooter : FreeSpace2. Other then playing games, my other hobbies are networking, and building computers. I have gotten into a real bad habit of constantly upgrading my hardware to maintain a faster machine. Quotes I know how to use a keyboard now! Damn you Fluxy! You don’t exist! Reality is the essance of thought. Don’t cry about it bitch! Computer Specs CPU MHZ @ FSB: Athlon ThunderBird 1533 Mhz Mem size &amp; Type 768Mb PC2100 DDR Operating System: Windows XP Professional Video Card: Hercules 3D Prophet III GeForce3 64Mb DDR Monitor: NEC FE950+ (Black) 19”]]></summary></entry><entry><title type="html">Flux</title><link href="http://localhost:4000/lanyon/members/2002/04/02/Flux/" rel="alternate" type="text/html" title="Flux" /><published>2002-04-02T00:00:00-04:00</published><updated>2002-04-02T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/members/2002/04/02/Flux</id><content type="html" xml:base="http://localhost:4000/lanyon/members/2002/04/02/Flux/"><![CDATA[<h2 id="veteran-member">Veteran Member</h2>
+<p><img src="/lanyon/public/img_members/Sythro-pc.jpg" alt="Sythro's computer" /></p>]]></content><author><name>CybrWlf</name></author><category term="Members" /><category term="gamer" /><category term="Sythro" /><category term="veteran member" /><category term="stats" /><category term="quotes" /><summary type="html"><![CDATA[Veteran Member Player Profile Favorite RTS Favorite FPS StarCraft: BroodWars Unreal Tournament Personal Input Alright, so I’m not a networking genius. I know that you plug the RJ-45 into the router and configure for DHCP based on a generic subnet and the rest is.. Huh? Quotes See, it’s a matter of fully upgraded vs. non-fully upgraded. Heh heh heh… No Um. Dude. Help YA HA HA HOI!! Hmm.. What’s that sound?.. I hear Dark Templar… Heh. Computer Specs]]></summary></entry><entry><title type="html">Flux</title><link href="http://localhost:4000/lanyon/members/2002/04/02/Flux/" rel="alternate" type="text/html" title="Flux" /><published>2002-04-02T00:00:00-04:00</published><updated>2002-04-02T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/members/2002/04/02/Flux</id><content type="html" xml:base="http://localhost:4000/lanyon/members/2002/04/02/Flux/"><![CDATA[<h2 id="veteran-member">Veteran Member</h2>
 <p><img src="/lanyon/public/img_members/Flux.jpg" alt="Flux" /></p>
 
 <h2 id="player-profile">Player Profile</h2>
@@ -306,7 +158,294 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
       <td> </td>
     </tr>
   </tbody>
-</table>]]></content><author><name>CybrWlf</name></author><category term="Members" /><category term="gamer" /><category term="Flux" /><category term="veteran member" /><category term="stats" /><category term="quotes" /><summary type="html"><![CDATA[Veteran Member Player Profile Favorite RTS Favorite FPS StarCraft: BroodWars Unreal Tournament Personal Input You have to game man, But there us a time for gaming and a time for coding.. Of course it’s been quite a while since I’ve coded, but there is a time for it.. (After gaming) :) Quotes Flux it! Mine is Bigger Go Flux yourself Computer Specs CPU MHZ @ FSB: Athlon XP Thoroughbred 1533 Mhz @ 266Mhz Mem size &amp; Type 256Mb PC133 Operating System:   Video Card:   Monitor:  ]]></summary></entry><entry><title type="html">LAN2K1 v4</title><link href="http://localhost:4000/lanyon/review/2002/03/28/LAN-Review-LAN2K1-4/" rel="alternate" type="text/html" title="LAN2K1 v4" /><published>2002-03-28T00:00:00-04:00</published><updated>2002-03-28T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/review/2002/03/28/LAN-Review-LAN2K1-4</id><content type="html" xml:base="http://localhost:4000/lanyon/review/2002/03/28/LAN-Review-LAN2K1-4/"><![CDATA[<h1 id="lan2k1">LAN2K1</h1>
+</table>]]></content><author><name>CybrWlf</name></author><category term="Members" /><category term="gamer" /><category term="Flux" /><category term="veteran member" /><category term="stats" /><category term="quotes" /><summary type="html"><![CDATA[Veteran Member Player Profile Favorite RTS Favorite FPS StarCraft: BroodWars Unreal Tournament Personal Input You have to game man, But there us a time for gaming and a time for coding.. Of course it’s been quite a while since I’ve coded, but there is a time for it.. (After gaming) :) Quotes Flux it! Mine is Bigger Go Flux yourself Computer Specs CPU MHZ @ FSB: Athlon XP Thoroughbred 1533 Mhz @ 266Mhz Mem size &amp; Type 256Mb PC133 Operating System:   Video Card:   Monitor:  ]]></summary></entry><entry><title type="html">Heller</title><link href="http://localhost:4000/lanyon/members/2002/04/02/Heller/" rel="alternate" type="text/html" title="Heller" /><published>2002-04-02T00:00:00-04:00</published><updated>2002-04-02T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/members/2002/04/02/Heller</id><content type="html" xml:base="http://localhost:4000/lanyon/members/2002/04/02/Heller/"><![CDATA[<h2 id="veteran-member">Veteran Member</h2>
+<p><img src="/lanyon/public/img_members/Heller.jpg" alt="Heller" /></p>
+
+<h2 id="player-profile">Player Profile</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Favorite RTS</th>
+      <th style="text-align: center">Favorite FPS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">WarCraft 2</td>
+      <td style="text-align: center">Medal of Honor: Allied Assault</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="personal-input">Personal Input</h2>
+<p>Warcraft 3 = fun!</p>
+
+<h2 id="quotes">Quotes</h2>
+<ol>
+  <li>What the FLUX?</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
+
+<h2 id="computer-specs"><a href="#computer-specs">Computer Specs</a></h2>
+<p><img src="/lanyon/public/img_members/Heller-pc.jpg" alt="Heller's computer" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>CPU MHZ @ FSB:</td>
+      <td>Pentium 4 2400 Mhz @ 533Mhz</td>
+    </tr>
+    <tr>
+      <td>Mem size &amp; Type</td>
+      <td>512Mb PC1066 RDRAM</td>
+    </tr>
+    <tr>
+      <td>Operating System:</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Video Card:</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Monitor:</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>CybrWlf</name></author><category term="Members" /><category term="gamer" /><category term="Heller" /><category term="veteran member" /><category term="stats" /><category term="quotes" /><summary type="html"><![CDATA[Veteran Member Player Profile Favorite RTS Favorite FPS WarCraft 2 Medal of Honor: Allied Assault Personal Input Warcraft 3 = fun! Quotes What the FLUX? Computer Specs CPU MHZ @ FSB: Pentium 4 2400 Mhz @ 533Mhz Mem size &amp; Type 512Mb PC1066 RDRAM Operating System:   Video Card:   Monitor:  ]]></summary></entry><entry><title type="html">TheCyberWolf</title><link href="http://localhost:4000/lanyon/members/2002/04/02/TheCyberWolf/" rel="alternate" type="text/html" title="TheCyberWolf" /><published>2002-04-02T00:00:00-04:00</published><updated>2002-04-02T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/members/2002/04/02/TheCyberWolf</id><content type="html" xml:base="http://localhost:4000/lanyon/members/2002/04/02/TheCyberWolf/"><![CDATA[<h2 id="veteran-member">Veteran Member</h2>
+<p><img src="/lanyon/public/img_members/TheCyberWolf.jpg" alt="TheCyberWolf" /></p>
+
+<h2 id="player-profile">Player Profile</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Favorite RTS</th>
+      <th style="text-align: center">Favorite FPS</th>
+      <th style="text-align: center">ICQ number</th>
+      <th style="text-align: center">AIM Screen Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">StarCraft: BroodWars</td>
+      <td style="text-align: center">Soldier of Fortune II: Double Helix</td>
+      <td style="text-align: center">2065347</td>
+      <td style="text-align: center">TheCybrWlf</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="personal-input">Personal Input</h2>
+<p>I dunno why no one likes driving with me. I thought doing figure eights in the car right after the computer show in a major snow storm was fun! It was so much more fun then loading the car with 4 people and 4 full PCs(Montiors, Cases, the works), but we that we did too.</p>
+
+<h2 id="quotes">Quotes</h2>
+<ol>
+  <li>Passing some of the snow plows is ok … Just don’t try to pass ALL the snow plows!</li>
+  <li>No prob</li>
+  <li>Assumtion is the mother of all f*ck-ups!</li>
+  <li>basicly…</li>
+  <li>WTF?!?!</li>
+</ol>
+
+<h2 id="computer-specs"><a href="#computer-specs">Computer Specs</a></h2>
+<p><img src="/lanyon/public/img_members/TheCyberWolf-pc.jpg" alt="TheCyberWolf's computer" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>CPU MHZ @ FSB:</td>
+      <td>Athlon ThunderBird 1200 Mhz @ 266Mhz</td>
+    </tr>
+    <tr>
+      <td>Mem size &amp; Type</td>
+      <td>512Mb PC2100 DDR</td>
+    </tr>
+    <tr>
+      <td>Operating System:</td>
+      <td>Windows XP Professional</td>
+    </tr>
+    <tr>
+      <td>Video Card:</td>
+      <td>MSI GeForce2 Pro 64Mb DDR</td>
+    </tr>
+    <tr>
+      <td>Monitor:</td>
+      <td>Sony Trinitron 17”</td>
+    </tr>
+    <tr>
+      <td>Network Card:</td>
+      <td>SIS On Board 10/100</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>CybrWlf</name></author><category term="Members" /><category term="gamer" /><category term="TheCyberWolf" /><category term="CybrWlf" /><category term="veteran member" /><category term="stats" /><category term="quotes" /><summary type="html"><![CDATA[Veteran Member Player Profile Favorite RTS Favorite FPS ICQ number AIM Screen Name StarCraft: BroodWars Soldier of Fortune II: Double Helix 2065347 TheCybrWlf Personal Input I dunno why no one likes driving with me. I thought doing figure eights in the car right after the computer show in a major snow storm was fun! It was so much more fun then loading the car with 4 people and 4 full PCs(Montiors, Cases, the works), but we that we did too. Quotes Passing some of the snow plows is ok … Just don’t try to pass ALL the snow plows! No prob Assumtion is the mother of all f*ck-ups! basicly… WTF?!?! Computer Specs CPU MHZ @ FSB: Athlon ThunderBird 1200 Mhz @ 266Mhz Mem size &amp; Type 512Mb PC2100 DDR Operating System: Windows XP Professional Video Card: MSI GeForce2 Pro 64Mb DDR Monitor: Sony Trinitron 17” Network Card: SIS On Board 10/100]]></summary></entry><entry><title type="html">Abysal</title><link href="http://localhost:4000/lanyon/members/2002/04/02/Abysal/" rel="alternate" type="text/html" title="Abysal" /><published>2002-04-02T00:00:00-04:00</published><updated>2002-04-02T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/members/2002/04/02/Abysal</id><content type="html" xml:base="http://localhost:4000/lanyon/members/2002/04/02/Abysal/"><![CDATA[<h2 id="veteran-member">Veteran Member</h2>
+<p><img src="/lanyon/public/img_members/Abysal.jpg" alt="Abysal" /></p>
+
+<h2 id="player-profile">Player Profile</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Favorite RTS</th>
+      <th style="text-align: center">Favorite FPS</th>
+      <th style="text-align: center">ICQ number</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Age of Empires II: The Conquerors</td>
+      <td style="text-align: center">Unreal Tournament</td>
+      <td style="text-align: center">14832889</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="personal-input">Personal Input</h2>
+<p>I like to play many RTS games such as : Starcraft : Brood Wars, AOE2 : Expansion, and Homeworld. I like first person shooters, such as UT and Quake3 (which I am god when i play), I also like Counter Strike (a mod for Half-Life - awsome), and of course the best space sim / first person shooter : FreeSpace2. Other then playing games, my other hobbies are networking, and building computers. I have gotten into a real bad habit of constantly upgrading my hardware to maintain a faster machine.</p>
+
+<h2 id="quotes">Quotes</h2>
+<ol>
+  <li>I know how to use a keyboard now!</li>
+  <li>Damn you Fluxy!</li>
+  <li>You don’t exist!</li>
+  <li>Reality is the essance of thought.</li>
+  <li>Don’t cry about it bitch!</li>
+</ol>
+
+<h2 id="computer-specs"><a href="#computer-specs">Computer Specs</a></h2>
+<p><img src="/lanyon/public/img_members/Abysal-pc.jpg" alt="Abysal's computer" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>CPU MHZ @ FSB</td>
+      <td>Athlon ThunderBird 1533 Mhz</td>
+    </tr>
+    <tr>
+      <td>Mem size &amp; Type</td>
+      <td>768Mb PC2100 DDR</td>
+    </tr>
+    <tr>
+      <td>Operating System</td>
+      <td>Windows XP Professional</td>
+    </tr>
+    <tr>
+      <td>Video Card</td>
+      <td>Hercules 3D Prophet III GeForce3 64Mb DDR</td>
+    </tr>
+    <tr>
+      <td>Monitor</td>
+      <td>NEC FE950+ (Black) 19”</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>CybrWlf</name></author><category term="Members" /><category term="gamer" /><category term="Abysal" /><category term="veteran member" /><category term="stats" /><category term="quotes" /><summary type="html"><![CDATA[Veteran Member Player Profile Favorite RTS Favorite FPS ICQ number Age of Empires II: The Conquerors Unreal Tournament 14832889 Personal Input I like to play many RTS games such as : Starcraft : Brood Wars, AOE2 : Expansion, and Homeworld. I like first person shooters, such as UT and Quake3 (which I am god when i play), I also like Counter Strike (a mod for Half-Life - awsome), and of course the best space sim / first person shooter : FreeSpace2. Other then playing games, my other hobbies are networking, and building computers. I have gotten into a real bad habit of constantly upgrading my hardware to maintain a faster machine. Quotes I know how to use a keyboard now! Damn you Fluxy! You don’t exist! Reality is the essance of thought. Don’t cry about it bitch! Computer Specs CPU MHZ @ FSB Athlon ThunderBird 1533 Mhz Mem size &amp; Type 768Mb PC2100 DDR Operating System Windows XP Professional Video Card Hercules 3D Prophet III GeForce3 64Mb DDR Monitor NEC FE950+ (Black) 19”]]></summary></entry><entry><title type="html">CyberfireX</title><link href="http://localhost:4000/lanyon/members/2002/04/02/CyberfireX/" rel="alternate" type="text/html" title="CyberfireX" /><published>2002-04-02T00:00:00-04:00</published><updated>2002-04-02T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/members/2002/04/02/CyberfireX</id><content type="html" xml:base="http://localhost:4000/lanyon/members/2002/04/02/CyberfireX/"><![CDATA[<h2 id="veteran-member">Veteran Member</h2>
+<p><img src="/lanyon/public/img_members/CyberfireX.jpg" alt="CyberfireX" /></p>
+
+<h2 id="player-profile">Player Profile</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Favorite RTS</th>
+      <th style="text-align: center">Favorite FPS</th>
+      <th style="text-align: center">ICQ number</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Emporer: Battle for Dune</td>
+      <td style="text-align: center">Unreal Tournament</td>
+      <td style="text-align: center">2300069</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="personal-input">Personal Input</h2>
+<p>I did it…. I finally bought an OPTIC!!!</p>
+
+<h2 id="quotes">Quotes</h2>
+<ol>
+  <li>HEADSHOT… (duh)</li>
+  <li>PROPER FLEET CONSTRUCTION!!!!!!</li>
+  <li></li>
+  <li>um……. fuck you all…..</li>
+  <li>‘till all are one</li>
+</ol>
+
+<h2 id="computer-specs"><a href="#computer-specs">Computer Specs</a></h2>
+<p><img src="/lanyon/public/img_members/CyberfireX-pc.jpg" alt="CyberfireX's computer" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>CPU MHZ @ FSB:</td>
+      <td>Athlon ThunderBird 800 Mhz</td>
+    </tr>
+    <tr>
+      <td>Mem size &amp; Type</td>
+      <td>384Mb PC100</td>
+    </tr>
+    <tr>
+      <td>Operating System:</td>
+      <td>Multi Boot (Win / Linux)</td>
+    </tr>
+    <tr>
+      <td>Video Card:</td>
+      <td>Titanium GeForce2 TI 64Mb DDR</td>
+    </tr>
+    <tr>
+      <td>Monitor:</td>
+      <td>AOC 17”</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>CybrWlf</name></author><category term="Members" /><category term="gamer" /><category term="CyberfireX" /><category term="veteran member" /><category term="stats" /><category term="quotes" /><summary type="html"><![CDATA[Veteran Member Player Profile Favorite RTS Favorite FPS ICQ number Emporer: Battle for Dune Unreal Tournament 2300069 Personal Input I did it…. I finally bought an OPTIC!!! Quotes HEADSHOT… (duh) PROPER FLEET CONSTRUCTION!!!!!! um……. fuck you all….. ‘till all are one Computer Specs CPU MHZ @ FSB: Athlon ThunderBird 800 Mhz Mem size &amp; Type 384Mb PC100 Operating System: Multi Boot (Win / Linux) Video Card: Titanium GeForce2 TI 64Mb DDR Monitor: AOC 17”]]></summary></entry><entry><title type="html">Lanparty Review - Cramped Combat E1</title><link href="http://localhost:4000/lanyon/lanparties/2002/03/28/LAN-Review-Cramped-Combat-E1/" rel="alternate" type="text/html" title="Lanparty Review - Cramped Combat E1" /><published>2002-03-28T00:00:00-04:00</published><updated>2002-03-28T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/lanparties/2002/03/28/LAN-Review-Cramped-Combat-E1</id><content type="html" xml:base="http://localhost:4000/lanyon/lanparties/2002/03/28/LAN-Review-Cramped-Combat-E1/"><![CDATA[<h1 id="cramped-combat-e1">Cramped Combat E1</h1>
+
+<h2 id="introduction">Introduction</h2>
+<p>Cramped Lan. Sounds uncomfortable but it was suprizingly spacious. The name came from the original location in which REAL cramped. It could have gotten cramped but we had quite enough room even though.</p>
+
+<h2 id="stability">Stability</h2>
+<h3 id="rating-90">Rating 9.0</h3>
+<p><img src="/lanyon/public/img_reviews/xCCE1Image01.jpg" alt="Image" />
+Everything was good. No fights, arguments or anything… well except for which game to play next.</p>
+
+<h2 id="reuseability">ReUseability</h2>
+<h3 id="rating-89">Rating 8.9</h3>
+<p><img src="/lanyon/public/img_reviews/xCCE1Image02.jpg" alt="Image" />
+This was very fun. It was just a bunch of guys playin and having fun. The food was definatly a nice touch but I’m sure it got expensive for the host. I would definately come back even if they don’t offer the food.</p>
+
+<h2 id="compatability">Compatability</h2>
+<h3 id="rating-80">Rating 8.0</h3>
+<p><img src="/lanyon/public/img_reviews/xCCE1Image03.jpg" alt="Image" />
+Definately an open atmosphere. I liked the fact that we were not banished to a basement and reminded to “keep it down”. We were in the heart of the house (dining area, spilling into the kitchen) and not once did anyone tell me to keep it down. Now normaly I would not be offended even IF they did tell me to lower my voice, because I do know I am naturally very loud.</p>
+
+<h2 id="grafix">Grafix</h2>
+<h3 id="rating-90-1">Rating 9.0</h3>
+<p><img src="/lanyon/public/img_reviews/xCCE1Image04.jpg" alt="Image" />
+n/a</p>
+
+<h2 id="fx">FX</h2>
+<h3 id="80">8.0</h3>
+<p><img src="/lanyon/public/img_reviews/xCCE1Image05.jpg" alt="Image" />
+I didn’t find this out till later in the lanparty but a laptop with a simple web cam was recording pix every minute. It’s a simple idea but I like it … It’s not novel, Lan2k1 did it before… It’s not very Hi-Tech… but you know what … It’s a cool idea and I like it … always have and always will.</p>
+
+<h2 id="network">Network</h2>
+<h3 id="rate-95">Rate: 9.5</h3>
+<p><img src="/lanyon/public/img_reviews/xCCE1Image06.jpg" alt="Image" />
+Network was fine. Internet Access was a nice touch and was bearly abused, which is always good. I would recommend a few dedicated servers but otherwise it was fine.</p>
+
+<h2 id="overall">Overall</h2>
+<h3 id="rate-10">Rate: 10</h3>
+<p><img src="/lanyon/public/img_reviews/xCCE1Image07.jpg" alt="Image" />
+The Lan Was great. The people and atmosphere were good too. When you have all this it’s hard to not have a good time.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>I can’t wait till there is another lan like this. It was just more fun.</p>
+
+<p><img src="/lanyon/public/img_reviews/xCCE1Image08.jpg" alt="Image" /> <img src="/lanyon/public/img_reviews/xCCE1Image10.jpg" alt="Image" /></p>]]></content><author><name>cybrwlf</name></author><category term="Lanparties" /><category term="lanparty" /><category term="Cramped Combat E1" /><summary type="html"><![CDATA[Cramped Combat E1 Introduction Cramped Lan. Sounds uncomfortable but it was suprizingly spacious. The name came from the original location in which REAL cramped. It could have gotten cramped but we had quite enough room even though. Stability Rating 9.0 Everything was good. No fights, arguments or anything… well except for which game to play next. ReUseability Rating 8.9 This was very fun. It was just a bunch of guys playin and having fun. The food was definatly a nice touch but I’m sure it got expensive for the host. I would definately come back even if they don’t offer the food. Compatability Rating 8.0 Definately an open atmosphere. I liked the fact that we were not banished to a basement and reminded to “keep it down”. We were in the heart of the house (dining area, spilling into the kitchen) and not once did anyone tell me to keep it down. Now normaly I would not be offended even IF they did tell me to lower my voice, because I do know I am naturally very loud. Grafix Rating 9.0 n/a FX 8.0 I didn’t find this out till later in the lanparty but a laptop with a simple web cam was recording pix every minute. It’s a simple idea but I like it … It’s not novel, Lan2k1 did it before… It’s not very Hi-Tech… but you know what … It’s a cool idea and I like it … always have and always will. Network Rate: 9.5 Network was fine. Internet Access was a nice touch and was bearly abused, which is always good. I would recommend a few dedicated servers but otherwise it was fine. Overall Rate: 10 The Lan Was great. The people and atmosphere were good too. When you have all this it’s hard to not have a good time. Conclusion I can’t wait till there is another lan like this. It was just more fun.]]></summary></entry><entry><title type="html">Lanparty Review - LAN2K1 v4</title><link href="http://localhost:4000/lanyon/lanparties/2002/03/28/LAN-Review-LAN2K1-4/" rel="alternate" type="text/html" title="Lanparty Review - LAN2K1 v4" /><published>2002-03-28T00:00:00-04:00</published><updated>2002-03-28T00:00:00-04:00</updated><id>http://localhost:4000/lanyon/lanparties/2002/03/28/LAN-Review-LAN2K1-4</id><content type="html" xml:base="http://localhost:4000/lanyon/lanparties/2002/03/28/LAN-Review-LAN2K1-4/"><![CDATA[<h1 id="lan2k1">LAN2K1</h1>
 
 <h2 id="introduction">Introduction</h2>
 <p><img src="/lanyon/public/img_reviews/xlan2k1-4-0.jpg" alt="Image" />
@@ -360,81 +499,4 @@ I love lan parties, I can’t imagine how boring my life would be with out them.
 
 <h2 id="conclusion">Conclusion</h2>
 
-<p>I’m glad 8-Ball made an apperance, dunno if it would have been the same with out him. Well Lan2k1 has done it again. I hope they keep doing it too for years to come. Games, Tourneys, Meatballs (which were great)… we got it all and Bawls to wash it all down. Can’t wait till v5.0 AND the big party at Greenfields Fire Hall (Watch for it on LAN2k1’s site). I’ll see ya at the next lanparty!</p>]]></content><author><name>cybrwlf</name></author><category term="review" /><category term="lanparty" /><category term="LAN2K1" /><summary type="html"><![CDATA[This is the first post of the "posts" collection.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/lanyon/files/images/china-street.jpg" /><media:content medium="image" url="http://localhost:4000/lanyon/files/images/china-street.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Game Review - Red Faction</title><link href="http://localhost:4000/lanyon/review/2001/11/07/Game-Review-Red-Faction/" rel="alternate" type="text/html" title="Game Review - Red Faction" /><published>2001-11-07T00:00:00-05:00</published><updated>2001-11-07T00:00:00-05:00</updated><id>http://localhost:4000/lanyon/review/2001/11/07/Game-Review-Red-Faction</id><content type="html" xml:base="http://localhost:4000/lanyon/review/2001/11/07/Game-Review-Red-Faction/"><![CDATA[<h1 id="game--red-faction">Game : Red Faction</h1>
-<p>Creator : <a href="http://www.redfaction.com/">THQ / Volition</a>
-Date : 11/7/2001
-Reviewer: <a href="./members/View_Mbr.asp?UserName=Abysal">Abysal</a>
-Version: 1.10</p>
-
-<h2 id="introduction">Introduction</h2>
-<p>Red Faction is a new game with a new feature that I'll be raving about for a while and it's called envionmental damage! Single player mode has a pretty good plot and it seems that the game can be completed via different "routes" taken through some of the levels. Multiplayer games support upto 32 poeple. Weapons are more realistic then Q3 or UT, and same goes for how ammo is done. You have to reload your weapon much like in Counter-Strike.</p>
-
-<h2 id="requirements">Requirements</h2>
-<ol>
-  <li>Minimum Required
-    <ul>
-      <li>K6-2 350 MHz</li>
-      <li>64 MB Ram + OS and other Ram requirements and 1.2 GB HD space</li>
-      <li>For video you need a TNT or ATI Rage 128 type video Card with at least 16 MB Ram</li>
-    </ul>
-  </li>
-  <li>Recommended
-    <ul>
-      <li>Thunderbird / Duron / Pentium III @ 750 MHz</li>
-      <li>128 MB Ram</li>
-      <li>GeForce, Radeon, Kryo II, and a hard drive to accommodate 1.2 GB of game data.</li>
-    </ul>
-  </li>
-  <li><a href="/lanyon/members/2002/04/02/Abysal/#computer-specs">Test PC</a></li>
-</ol>
-
-<h2 id="stability">Stability</h2>
-<p>Rate: 9
-First off, games works right out of the box v.1.0 is stable and smooth.
-The v.1.10 patch also showed the same. I only experienced two crash instances where I was kicked to the desktop.</p>
-
-<p><img src="/lanyon/public/img_reviews/xRF-0.jpg" alt="Image" /></p>
-
-<h2 id="reuseability">ReUseability</h2>
-
-<p>Rate: 7</p>
-
-<p>There seem to be multiple routes to take through the levels. Also the way NPC's interact with you seems to vary.</p>
-
-<h2 id="compatability">Compatability</h2>
-
-<p>Rate: 9</p>
-
-<p>Compatability looks real good, this game ran on every body's hardware here at LanParty 2000. And it was also pretty heavily played at LAN2k1, and I think 1 person may have had a problem with it running on his TNT2, I think the Nvidia Detonator drivers were to blame.</p>
-
-<p><img src="/lanyon/public/img_reviews/xRF-2.jpg" alt="Image" /></p>
-
-<h2 id="grafix">Grafix</h2>
-
-<p>Rate: 8</p>
-
-<p>Graphics are what we all expect from games like UT and Quake 3.</p>
-
-<p><img src="/lanyon/public/img_reviews/xRF-3.jpg" alt="Image" /></p>
-
-<h2 id="fx">FX</h2>
-
-<p>Rate: 9</p>
-
-<p>Environmental damage - 'nuff said.</p>
-
-<h2 id="network">Network</h2>
-
-<p>Rate: 9</p>
-
-<p>The game uses TCP/IP for network play. The latency is great over LAN.</p>
-
-<h2 id="overall">Overall</h2>
-
-<p>Rate: 8</p>
-
-<p>Great game, I highly recommend it for multi player gamming as well as going through the single player game.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<p>This is one of the new multi-player first person shooters that is a must try. The envionmental damage rocks! And one LAN I love to look at peoples faces when I blow the bridge out from under them :b Hopefully more future games will adopt envionmental damage.</p>]]></content><author><name>Abysal</name></author><category term="review" /><category term="game" /><category term="redfaction" /><category term="thq" /><category term="volition" /><summary type="html"><![CDATA[And one LAN I love to look at peoples faces when I blow the bridge out from under them :b]]></summary></entry></feed>
+<p>I’m glad 8-Ball made an apperance, dunno if it would have been the same with out him. Well Lan2k1 has done it again. I hope they keep doing it too for years to come. Games, Tourneys, Meatballs (which were great)… we got it all and Bawls to wash it all down. Can’t wait till v5.0 AND the big party at Greenfields Fire Hall (Watch for it on LAN2k1’s site). I’ll see ya at the next lanparty!</p>]]></content><author><name>[&quot;cybrwlf&quot;, &quot;flux&quot;, &quot;cyberfirex&quot;, &quot;abysal&quot;, &quot;doomx&quot;]</name></author><category term="Lanparties" /><category term="lanparty" /><category term="LAN2K1" /><summary type="html"><![CDATA[LAN2K1 Introduction BIGGER. BETTER. DA BOMB!!! This is the second time me and Abysal went to Lan2k1 and it just gets better each time. Well this time we brought backup. 12 of us were there and we showed them what it means to be a GOD!!! Since so many GODS showed up I decided to get some input from them too. Stability Rating 9.0 3 parties, 60+ people ( I dunno if we ever got a FINAL count of how many), and WHOLE HECK OF ALOT OF BAWLS!!! We can be as loud as we want… never have to worry about being crowded… and frag and frag to our little hearts content. This place is great but I really think we are begining to see the max possiblity of this location. Not to say 60+ isn’t a good number but I dunno where they are gonna put people, let alone get power for them. ReUseability Rating 8.9 Yo, I had a great time at this LAN. Was expecting more competition plus more tournaments to occur but they all didn’t due to time. Anyhow it was great owning it up :) I’m glad I won the p4 chip and mobo…. muwhaha. Till next LAN hopefully more tournaments will happen. Can’t wait &gt;:) -DoomXexec311- I would definitely come back to lan 2k1. There was a lot going on and always 2 or 3 different games to play. There were lots of cool people. A couple of annoying people, but that’s to be expected. I definitely would recommend it to everyone. Just a tip though, treat your stuff as if you were leaving it out on the sidewalk, this is a public event not a friendly one. Keep an eye on everything, and don’t leave your stuff lying about. -CyberFireX- Compatability Rating 8.0 Well it was bound to happen. The more people you add to the mix the more of a chance that 1 of them will piss someone off. Luckly it was handled very quietly and I believe all in volved realized what they did wasnot the best thing to do. For those not in the know… Don’t worry about it. It was nothing, just keep in mind that this is a big even and people from all over attend these. It’s not a party of friends and what you think is funny might piss someone else off. Grafix Rating 9.0 The projection screen made a come back and was nice to watch. No Fog or Disco lights which was good. FX 8.0 Everything was fine, UNTIL… (Blinding light!!!) Yep some one managed to find the light switch and take down half the GODS crew. I know we were kicking some butt, but come one… there has got to be a better way to beat us without blowing a circuit breaker. Just kidding!!! -CyberFireX- The prizes were awesome, and the raffle was a good idea. The fact that he gave away the best prizes as raffles meant that the games were more for fun than bitter competition. The observer view screen was a great idea, it let people watch the battle without crowding the gamers. The network was great. My only real complaint was that the microphone they were using was highly inadequate, they should consider putting speakers around the room for that, or multiple boxes, and doing rogerwilco. They had a great idea with posting an intranet webpage, and putting common drivers, and game patches up there so that everyone could get to them. Network Rate: 9.5 As usual an impressive setup. Fiber uplinks were nice but we noticed that the 3 Switches were not in use, only 2. Dunno what happened… not sure anyone really does but it’s just an observasion. In LAN2k1’s defense they ran good old CAT5 to the GODS section and all was good. The “overflow” area(I think it was up front) made good use of my 16 port switch. I was happy to help. OH speaking of HELP. I met some great guys at Lan2k1… Why? cause they were haveing some problems getting connected. While I don’t mind helping (and these guys were great guys to hang with too) I do get just a little upset when people don’t test their hardware. The problem boiled down to a bad Cat5 cable they brought from home. Like I said I didn’t mind helping but please… PLEASE!!!…. check your stuff BEFORE you come to a party. It saves time and you’ll get into the game faster. Overall Rate: 10 I love lan parties, I can’t imagine how boring my life would be with out them. I’ve been to Lan parties before, but I gotta say, lan2k1 throws the best ones! Especially this time around, there was food, plenty of drinks, and tons, tons of gaming! Can it really get any better then this? My friends and I also host lan parties on a monthly basis, and I hope that one day we can put something togther like lan2k1 did. Great job lan2k1! -=AbysaL=- Conclusion I’m glad 8-Ball made an apperance, dunno if it would have been the same with out him. Well Lan2k1 has done it again. I hope they keep doing it too for years to come. Games, Tourneys, Meatballs (which were great)… we got it all and Bawls to wash it all down. Can’t wait till v5.0 AND the big party at Greenfields Fire Hall (Watch for it on LAN2k1’s site). I’ll see ya at the next lanparty!]]></summary></entry></feed>
